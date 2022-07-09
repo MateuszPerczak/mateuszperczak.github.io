@@ -1,11 +1,19 @@
 {
-  "title": "Doświadczenie",
-  "ITSpecialist": "Informatyk",
-  "officeWorker": "Pracownik biurowy",
-  "productionWorker": "Pracownik produkcyjny",
-  "fullStackDeveloper": "Full Stack Developer",
-  "0": "Praktyka w Urzędzie Gminy Świerklany",
-  "1": "Staż w firmie DIGGER Izabela Grębowiec",
-  "2": "Praca w firmie Magorex sp. z o.o. sp. k.",
-  "3": "Staż w firmie COIG S.A."
+  "experience": "Doświadczenie",
+  "ITSpecialist": {
+    "header": "Praktyka w Urzędzie Gminy Świerklany",
+    "description": "Informatyk"
+  },
+  "officeWorker": {
+    "header": "Staż w firmie DIGGER Izabela Grębowiec",
+    "description": "Pracownik biurowy"
+  },
+  "productionWorker": {
+    "header": "Praca w firmie Magorex sp. z o.o. sp. k.",
+    "description": "Pracownik produkcyjny"
+  },
+  "fullStackDeveloper": {
+    "header": "Staż w firmie COIG S.A.",
+    "description": "Full Stack Developer"
+  }
 }

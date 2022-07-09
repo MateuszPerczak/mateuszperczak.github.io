@@ -1,4 +1,5 @@
 {
+  "projects": "Projects",
   "portfolio": "Page with info about me, my projects, etc. (you are currently viewing it)",
   "ticTacToe": "Just a simple tic-tac-toe game",
   "pyScriptReact": "A library that connects React with PyScript. It allows you to run python scripts in the browser.",
